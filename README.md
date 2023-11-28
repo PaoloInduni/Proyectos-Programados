@@ -1,4 +1,4 @@
-# Proyectos-Programados
+# Proyectos - Paolo Induni Ocampo
 
 Lenguajes presentes en el repositorio:
 
