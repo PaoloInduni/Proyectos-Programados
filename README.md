@@ -2,8 +2,13 @@
 
 Lenguajes presentes en el repositorio:
 
-- Java
 - Python
+- Java
 - C#
 - C
 - SQL
+
+Paradigmas presentes:
+
+- OOP (Object oriented programming)
+- FP (Functional Programming)
